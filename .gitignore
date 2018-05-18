@@ -8,6 +8,10 @@
 *.o
 *.so
 
+# Notebook checkpoints
+
+*-checkpoint.ipynb
+
 # Logs and databases
 
 *.log
