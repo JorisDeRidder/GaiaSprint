@@ -12,6 +12,11 @@
 
 *-checkpoint.ipynb
 
+# Binary data files
+
+*.h5
+*.hdf5
+
 # Logs and databases
 
 *.log
